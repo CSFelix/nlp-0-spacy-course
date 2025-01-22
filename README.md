@@ -1,7 +1,7 @@
-<h1 align='center'>📝 NLP Chapter 0: Spacy Course 📝</h1>
+<h1 align='center'>💬 NLP Chapter 0: Spacy Course 💬</h1>
 
 <div align="center">
-  <img src='./src/read-me-images/documents.svg' alt='Documents' />
+  <img src='./src/read-me-images/natural-language-processing.svg' alt='Documents' />
 </div>
 
 ---
